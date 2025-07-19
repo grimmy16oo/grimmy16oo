@@ -30,9 +30,7 @@ I enjoy building random stuff, breaking things (accidentally), and learning from
 - LinkedIn: https://www.linkedin.com/in/susmita-ghosh-80888a2a8/
 - Email: gsusmita655@gmail.com
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grimmy16oo&show_icons=true&theme=radical)
+### 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=grimmy16oo&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grimmy16oo&layout=compact&theme=radical)
 
