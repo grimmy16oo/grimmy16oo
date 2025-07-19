@@ -1,19 +1,16 @@
-# 🏄‍♂️ Hi there, I'm Susmita!
+## 🏄‍♂️ Hi there, I'm Susmita!
 
 Welcome to my GitHub profile! I'm just a **noob developer** trying to figure out the tech world one bug at a time 🐛💻
 
 
-## 🚀 About Me
-
+### 🚀 About Me
 I enjoy building random stuff, breaking things (accidentally), and learning from it all.
-
 - 🔭 I’m currently working on: Personal projects and experiments
 - 🌱 I’m currently learning: Full stack development (React + Node + Mongo + Java)
 - ⚡ Fun fact: Idk, you tell me! Maybe that I survive more on caffeine than code ☕️👨‍💻
 
 
-## 🧰 Languages and Tools
-
+### 🧰 Languages and Tools
 <p align="left">
   <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -29,8 +26,7 @@ I enjoy building random stuff, breaking things (accidentally), and learning from
 </p>
 
 
-## 📫 Let's Connect!
-
+### 📫 Let's Connect!
 - LinkedIn: https://www.linkedin.com/in/susmita-ghosh-80888a2a8/
 - Email: gsusmita655@gmail.com
 
