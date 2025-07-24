@@ -1,10 +1,9 @@
 ## 🏄‍♂️ Hi there, I'm Susmita!
 
-Welcome to my GitHub profile! I'm just a **noob developer** trying to figure out the tech world one bug at a time 🐛💻
+Welcome to my GitHub profile! just a **noob developer** trying to figure out the world one bug at a time 🐛💻
 
 
 ### 🚀 About Me
-I enjoy building random stuff, breaking things (accidentally), and learning from it all.
 - 🔭 I’m currently working on: Personal projects and experiments
 - 🌱 I’m currently learning: Full stack development (React + Node + Mongo + Java)
 - ⚡ Fun fact: Idk, you tell me! Maybe that I survive more on caffeine than code ☕️👨‍💻
